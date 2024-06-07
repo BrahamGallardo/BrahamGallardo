@@ -10,7 +10,7 @@
 - ⚡ Fun fact: **I didn't go to kindergarten**
 - 🎉 I'm interested in **League of Legends and Genshin Impact**
 - 🎸 🎼 Musician 🎵🎶
-- 📫 How to reach me: <p>
+- 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/abraham-gallardo-527006232/" target="blank"><img align="center"
      src="https://img.shields.io/badge/Linkedin-white?logo=Linkedin&logoColor=white&labelColor=blue&color=blue"
      alt="azzar" height="25" title="Abraham Gallardo"/></a>
@@ -23,7 +23,7 @@
 <a href="https://x.com/BrahamCG" target="blank"><img align="center"
      src="https://img.shields.io/badge/X-black?logo=x&logoColor=white"
      alt="azzar" height="25" title="BrahamG"/></a>
-</p>
+
 
 <br/>
 
