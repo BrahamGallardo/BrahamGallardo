@@ -56,6 +56,7 @@
 ![Square](https://img.shields.io/badge/Square-black?logo=square&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?logo=woocommerce&logoColor=white)
 
 ![MySql](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white)
